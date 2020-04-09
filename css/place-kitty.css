@@ -37,6 +37,6 @@ img#kitty-2 {
 
 /* Select the image that has an attribute value matching "Kitty 5" (using attribute selector) */
 
-a Kitty-5 {
+a#Kitty-5 {
   left: 223px;
 }
