@@ -38,5 +38,8 @@ img#kitty-2 {
 /* Select the image that has an attribute value matching "Kitty 5" (using attribute selector) */
 
 img[alt*="Kitty 5"] {
+  position: absolute;
+  z-index: 4;
+  top: 260px;
   left: 223px;
 }
